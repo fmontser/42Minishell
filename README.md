@@ -33,8 +33,11 @@
 
 ### Cómo Compilar y Ejecutar
 
+> Importante: Este proyecto fue desarrollado en Macos Catalina (bsd), no funcionara en sistemas linux sin extensivas modificaciones.
+
 1.  **Compilar el proyecto:**
     ```bash
+    make configure
     make
     ```
 2.  **Ejecutar el shell:**
